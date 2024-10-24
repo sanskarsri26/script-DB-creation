@@ -26,7 +26,6 @@ This script imports data from a CSV file into an SQLite database, ensuring that 
    The CSV file used for importing is located at:
    `/Users/sanskarsrivastava/Desktop/CSE/Database-job/Data/Processed_full_fluxes_Map_file_soil_QUI-02_2023-05-05.csv`.   This location can be changed accordingly
 
-5. **Integration with GUI:**
-   This import script must be executed **before** running the GUI application (`gui_soil.py`), which depends on the data populated by this script.
+5. **Integration with GUI: This import script must be executed before running the GUI application (gui_soil.py), which depends on the data populated by this script. For more details about the project, visit the repository: Database Job on GitHub.
 
 ---
